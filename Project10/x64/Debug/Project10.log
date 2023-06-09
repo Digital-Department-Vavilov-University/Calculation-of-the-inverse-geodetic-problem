@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+C:\Users\krok9\source\repos\Project10\Project10\MyForm.h(811,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\krok9\source\repos\Project10\Project10\MyForm.h(815,22): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\krok9\source\repos\Project10\Project10\MyForm.h(820,21): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\krok9\source\repos\Project10\Project10\MyForm.h(825,22): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\krok9\source\repos\Project10\Project10\MyForm.h(832,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project10.vcxproj -> C:\Users\krok9\source\repos\Project10\x64\Debug\Project10.exe
